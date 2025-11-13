@@ -44,22 +44,6 @@ Bibliotecas: stdio.h, stdlib.h, string.h
 
 Conceitos aplicados: Structs, Vetores, Funções, Laços e Busca Sequencial
 
-🚀 Como Executar o Projeto
-
-Faça o download ou clone do repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-
-Acesse a pasta do projeto:
-
-cd nome-do-repositorio
-
-
-Compile o código:
-
-gcc inventario.c -o inventario
-
 
 Execute o programa:
 
